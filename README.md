@@ -73,8 +73,6 @@ Here’s a glimpse of the application in action:
    - **Use Webcam**: Activate your webcam to perform real-time pose detection.
    - **Upload Video**: Upload a video file and process it frame by frame for pose estimation.
 3. **View Results**: Visualize the key points and skeleton overlay on the images, videos, or webcam feed.
-4. **Stop Webcam**: Use the "Stop Webcam" button to terminate the webcam feed safely.
-
 ---
 
 ## Future Enhancements
