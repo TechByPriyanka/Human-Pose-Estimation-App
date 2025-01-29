@@ -30,7 +30,7 @@ The **Human Pose Estimation App** is built to estimate key points of a human bod
 ## Demo
 Here’s a glimpse of the application in action:
 
-![Demo]("C:\Users\lenovo\Downloads\App.webm")
+![Demo]("App.webm")
 
 ---
 
