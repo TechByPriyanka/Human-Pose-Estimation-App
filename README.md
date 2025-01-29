@@ -30,7 +30,8 @@ The **Human Pose Estimation App** is built to estimate key points of a human bod
 ## Demo
 Here’s a glimpse of the application in action:
 
-![Demo]("App.webm")
+▶ [Click here to watch the demo video](https://raw.githubusercontent.com/TechByPriyanka/Human-Pose-Estimation-App/main/demo.gif))
+
 
 ---
 
